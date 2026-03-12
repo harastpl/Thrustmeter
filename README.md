@@ -13,7 +13,7 @@ Install requirements.txt
 
 ``` pip install -r requirements.txt ```
  
- run main2.py
+ run main1.py
 
  use build.spec file to create exe
 
