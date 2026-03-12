@@ -1,6 +1,9 @@
-# 3-DoF
-Software for 3 Degree of Freedom
+# Thrustmeter
+Software for Thrustmeter
 
+Folder Path "C:\Users\USER\Desktop\thrustmeter_drone"
+
+exe is in dist folder
 
 To run create a virtual environment
 
